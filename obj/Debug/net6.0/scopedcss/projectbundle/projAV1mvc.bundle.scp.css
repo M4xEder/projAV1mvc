@@ -34,6 +34,9 @@ a[b-auxzjb27z8] {
 .box-shadow[b-auxzjb27z8] {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
+.display-4[b-auxzjb27z8]{
+  color: red;
+}
 
 button.accept-policy[b-auxzjb27z8] {
   font-size: 1rem;
